@@ -18,6 +18,6 @@ const styles = StyleSheet.create({
   },
   title: {
     color:"red",
-    fontSize: 50,
+    fontSize: 80,
   },
 })
